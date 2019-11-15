@@ -10,6 +10,9 @@ function validar() {
 		
 	}
 
+	if (password == 'pinguin')
+
+		return alert('Bem vindo pequeno Front!')
 	
 }
 

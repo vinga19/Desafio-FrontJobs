@@ -1,0 +1,53 @@
+body {
+
+                   
+    background-image:url("../img/azul-degrade.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+  
+}
+
+
+
+
+
+h1 {
+    font-size:24px;
+    margin-left: 40px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+.formHome
+{
+    margin-top: 150px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-content: center; 
+    text-align: center;
+     
+
+}
+.text
+{
+    color: white;
+}
+
+.blink
+{
+	border-radius: 0,5;
+	border-color: red;
+}

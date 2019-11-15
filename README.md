@@ -1,4 +1,4 @@
-![] (img/desafio.png)
+![](https://github.com/vinga19/Desafio-FrontJobs/tree/master/img/desafio.png)
  
 
 

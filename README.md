@@ -1,4 +1,4 @@
-<img src = "https://github.com/vinga19/Desafio-FrontJobs/tree/master/img/desafio.png?w=512" height = "150" width = "150"  >
+<img src = "https://github.com/vinga19/Desafio-FrontJobs/tree/master/img/desafio.png" height = "150" width = "150"  >
  
 
 
